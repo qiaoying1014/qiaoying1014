@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
+<img alt="Night Coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fglitch-matrix-cat-wwg1suUiTbCY8H8vIA&psig=AOvVaw1C5IWl9-R58J5OlB_DvIVd&ust=1742454485439000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODysoDLlYwDFQAAAAAdAAAAABAR" width='40' align="left"/><h2 align="left">Hey there! I'm Qiao Ying</h2>
 
 ### 🛠 &nbsp;Tech Stack
 
