@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 
 <img alt="Night Coding" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBwcDU0cjQ1ZmNtZjB4bHd2eXZjZGZjeGdzNWp4bGJua3Zzc2JpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Qiao Ying</h2>
 
+
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Computer+Science+Student" alt="Typing SVG" /></a>
+</p>
+
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
