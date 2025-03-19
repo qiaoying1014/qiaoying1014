@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="Night Coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fglitch-matrix-cat-wwg1suUiTbCY8H8vIA&psig=AOvVaw1C5IWl9-R58J5OlB_DvIVd&ust=1742454485439000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODysoDLlYwDFQAAAAAdAAAAABAR" width='40' align="left"/><h2 align="left">Hey there! I'm Qiao Ying</h2>
+<img alt="Night Coding" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBwcDU0cjQ1ZmNtZjB4bHd2eXZjZGZjeGdzNWp4bGJua3Zzc2JpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Qiao Ying</h2>
 
 ### 🛠 &nbsp;Tech Stack
 
