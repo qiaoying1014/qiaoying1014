@@ -51,10 +51,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=qiaoying1014&theme=dark&hide_border=true"/>
-</p>
-
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### 🐍 &nbsp;That's How Commits move
