@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **qiaoying1014/qiaoying1014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img alt="Night Coding" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBwcDU0cjQ1ZmNtZjB4bHd2eXZjZGZjeGdzNWp4bGJua3Zzc2JpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Qiao Ying</h2>
-
 
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Qiao+YingI+%F0%9F%91%8B" alt="Typing SVG" /></a>
