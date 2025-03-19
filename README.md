@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Computer+Science+Student" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Qiao+YingI+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
 
 
