@@ -1,80 +1,166 @@
-<!--
-**qiaoying1014/qiaoying1014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Wong Qiao Ying
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Software Engineer | Full-Stack Developer | Computer Science (Data Engineering)
 
-<p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Qiao+Ying+%F0%9F%91%8B" alt="Typing SVG" /></a>
-</p>
-
-
-### 🛠 &nbsp;Tech Stack
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
-
-### 🗃 &nbsp;Databases
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)&nbsp;
-
-### 🗃 &nbsp;Frameworks
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-
-### 🧰 &nbsp;Version Control & Tools 
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/qiaoying1014">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=qiaoying1014&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<p>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://github.com/qiaoying1014">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qiaoying1014&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://www.linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Qiao%20Ying%20Wong-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:qiaoyingwong14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-qiaoyingwong14%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://diamondgolfzon.com">
+    <img src="https://img.shields.io/badge/Live%20Project-Diamond%20Golf%20Zon-0f172a?style=for-the-badge" />
   </a>
 </p>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<p>
+  Building real-world software with modern web technologies, backend systems, and data-driven solutions.
+</p>
 
-### ✍️ &nbsp;Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+</div>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+---
 
-### 🐍 &nbsp;That's How Commits Move
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+## About Me
+
+Hi, I'm **Qiao Ying** — a Computer Science student specializing in **Data Engineering**, currently building my career in **Software Engineering**.
+
+I enjoy creating software that is not only functional, but also clean, scalable, and user-focused. My experience spans:
+
+- **real-time mobile and web systems**
+- **backend API integration**
+- **full-stack freelance website development**
+- **research collaboration involving NLP and sentiment analysis**
+
+Currently, I am involved in:
+- **DFleet Mobile App development** for AGV fleet monitoring
+- **freelance website projects** with admin system integration
+- **international sport sentiment analysis research** with UTM and the University of Melbourne
+
+---
+
+## Tech Stack
+
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-111827?style=flat-square)
+
+### Backend & Data
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0f172a?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-1f2937?style=flat-square)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+
+### Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Featured Work
+
+### DFleet Mobile Application
+**Tech:** SvelteKit, Cordova, Django, Redis, WebSocket, Firebase Cloud Messaging
+
+A real-time fleet monitoring mobile application for **Autonomous Guided Vehicles (AGV)** used in intralogistics operations.
+
+**What I worked on:**
+- developed responsive mobile UI for monitoring AGV status and task progress
+- integrated backend APIs and Redis-backed services
+- implemented real-time updates using WebSocket communication
+- built push notification workflows for operational alerts and task events
+
+---
+
+### Diamond Golf Zon Website
+**Tech:** Next.js, Tailwind CSS, Supabase, Vercel  
+**Live site:** [diamondgolfzon.com](https://diamondgolfzon.com)
+
+A premium business website built for an indoor golf simulator brand.
+
+**What I worked on:**
+- designed and developed a modern responsive website
+- improved SEO structure and performance
+- integrated admin-friendly content workflow
+- optimized images and page loading experience
+
+---
+
+### International Sport Sentiment Analysis Research
+**Collaboration:** Universiti Teknologi Malaysia × University of Melbourne  
+**Tech:** Python, NLP, Data Preprocessing, Sentiment Analysis
+
+A research collaboration focused on analyzing public sentiment toward international sports events using text-based data.
+
+**What I worked on:**
+- built preprocessing workflows for sentiment datasets
+- applied NLP methods for text analysis
+- supported exploratory analysis and research data preparation
+- contributed to cross-institution research collaboration
+
+---
+
+## Experience Snapshot
+
+### Software Developer Intern — DF Automation & Robotics
+- contributed to the development of a real-time fleet monitoring mobile application
+- implemented frontend, backend integration, notifications, and live task updates
+- worked with modern software engineering tools in a production environment
+
+### Freelance Web Developer
+- developed websites for business clients
+- integrated admin systems for content and management workflows
+- deployed full-stack applications with modern frontend frameworks and cloud tools
+
+---
+
+## What I’m Interested In
+
+- Software Engineering
+- Backend Development
+- Full-Stack Web Development
+- Real-Time Systems
+- Data-Driven Applications
+
+---
+
+## Currently Learning / Improving
+
+- writing cleaner production-ready code
+- improving system design thinking
+- strengthening backend architecture skills
+- building a stronger public portfolio on GitHub
+
+---
+
+## Contact
+
+- **Email:** qiaoyingwong14@gmail.com
+- **LinkedIn:** [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin)
+- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+
+---
+
+<div align="center">
+  <sub>Thanks for visiting my GitHub profile ✨</sub>
+</div>
