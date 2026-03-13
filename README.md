@@ -157,7 +157,7 @@ A research collaboration focused on analyzing public sentiment toward internatio
 
 - **Email:** qiaoyingwong14@gmail.com
 - **LinkedIn:** [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin)
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **GitHub:** [github.com/yourusername](https://github.com/qiaoying1014)
 
 ---
 
