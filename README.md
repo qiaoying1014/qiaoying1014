@@ -93,7 +93,7 @@ A real-time fleet monitoring mobile application for **Autonomous Guided Vehicles
 ---
 
 ### Diamond Golf Zon Website
-**Tech:** Next.js, Tailwind CSS, Supabase, Vercel  
+**Tech:** Next.js, Tailwind CSS, Vercel  
 **Live site:** [diamondgolfzon.com](https://diamondgolfzon.com)
 
 A premium business website built for an indoor golf simulator brand.
