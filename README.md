@@ -2,7 +2,7 @@
 
 # Wong Qiao Ying
 
-### Software Engineer | Full-Stack Developer | Computer Science (Data Engineering)
+### Full-Stack Developer | Computer Science (Data Engineering)
 
 <p>
   <a href="https://github.com/qiaoying1014">
