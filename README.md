@@ -5,9 +5,6 @@
 ### Full-Stack Developer | Computer Science (Data Engineering)
 
 <p>
-  <a href="https://github.com/qiaoying1014">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
-  </a>
   <a href="https://www.linkedin.com/in/qiao-ying-wong-6701b4181">
     <img src="https://img.shields.io/badge/LinkedIn-Qiao%20Ying%20Wong-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
