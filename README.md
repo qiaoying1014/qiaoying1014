@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/qiao-ying-wong-6701b4181">
     <img src="https://img.shields.io/badge/LinkedIn-Qiao%20Ying%20Wong-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:qiaoyingwong14@gmail.com">
+  <a href="mailto:wongqiaoying@gmail.com">
     <img src="https://img.shields.io/badge/Email-qiaoyingwong14%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://diamondgolfzon.com">
